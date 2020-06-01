@@ -1,0 +1,3 @@
+default.configuration=SpringMVC_Hibernate_Restapi_JavaConfig
+eclipse.preferences.version=1
+hibernate3.enabled=true
